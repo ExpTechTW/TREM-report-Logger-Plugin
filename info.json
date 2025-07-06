@@ -1,6 +1,6 @@
 {
   "name": "report-logger",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "author": ["yayacat"],
   "description": {
     "zh_tw": "report 原始資料 紀錄器",
